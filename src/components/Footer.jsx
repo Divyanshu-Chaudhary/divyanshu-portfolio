@@ -8,7 +8,7 @@ function Footer() {
 
         <div className="flex justify-center gap-6 mt-4">
           <a
-            href="https://github.com/yourgithub"
+            href="https://github.com/Divyanshu-Chaudhary"
             target="_blank"
             className="text-slate-300 hover:text-cyan-400"
           >
@@ -16,7 +16,7 @@ function Footer() {
           </a>
 
           <a
-            href="https://linkedin.com/in/yourlinkedin"
+            href="https://www.linkedin.com/in/divyanshu-76855b229/"
             target="_blank"
             className="text-slate-300 hover:text-cyan-400"
           >
@@ -24,7 +24,7 @@ function Footer() {
           </a>
 
           <a
-            href="https://leetcode.com/u/yourleetcode"
+            href="https://leetcode.com/u/_op_divyanshu/"
             target="_blank"
             className="text-slate-300 hover:text-cyan-400"
           >
